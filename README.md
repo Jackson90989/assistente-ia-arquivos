@@ -18,4 +18,4 @@ streamlit run app.py
 Abaixar o arquivo no istral-7b-instruct-v0.1.Q3_K_M.gguf no link abaixo:
 https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.1-GGUF
 
-Colocar na pasta model
+Colocar na pasta model"# assistente-ia-arquivos" 
