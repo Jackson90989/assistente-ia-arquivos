@@ -10,7 +10,7 @@
 
 ### 1. Clonar o repositório
 ```bash
-git clone https://github.com/Jackson90989/assistente-ia-arquivos
+git clone https://github.com/Jackson90989/assistente-ia-arquivos.git
 cd assistente-ia-arquivos
 
 streamlit run app.py
