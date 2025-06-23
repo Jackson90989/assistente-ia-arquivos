@@ -1,0 +1,6 @@
+
+streamlit
+gpt4all
+pandas
+nltk
+openpyxl
